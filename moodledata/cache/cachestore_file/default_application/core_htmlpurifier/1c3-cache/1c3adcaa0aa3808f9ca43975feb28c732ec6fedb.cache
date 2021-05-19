@@ -1,0 +1,8 @@
+s:749:"<p>BigBlueButtonBN vous permet de créer des liens au sein de Moodle vers des salles de classe virtuelle en ligne en utilisant BigBlueButton, système open source de conférence web pour l'enseignement à distance.</p>
+
+<p>En utilisant BigBlueButtonBN, vous pouvez indiquer le titre, la description, l'agenda (ce qui donne une plage de dates pour rejoindre la session), des groupes et des détails sur l'enregistrement de la session en ligne.</p>
+
+<p>Pour visionner les enregistrements plus tard, ajouter une ressource de type RecordingsBN à ce cours.</p>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/400/fr/BigBlueButton/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+";
