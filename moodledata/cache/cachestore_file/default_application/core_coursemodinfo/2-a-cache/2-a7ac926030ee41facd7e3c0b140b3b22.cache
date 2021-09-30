@@ -1,0 +1,118 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:3:{i:1;O:8:"stdClass":11:{s:2:"id";s:1:"1";s:2:"cm";s:1:"1";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"1";s:6:"module";s:1:"9";s:5:"added";s:10:"1631189626";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:8:"Annonces";}i:2;O:8:"stdClass":13:{s:2:"id";s:1:"1";s:2:"cm";s:1:"2";s:3:"mod";s:4:"page";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"1";s:6:"module";s:2:"16";s:5:"added";s:10:"1631190951";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:4:"name";s:56:"1.	Module 1 : Présentation de la promotion immobilière";}i:3;O:8:"stdClass":13:{s:2:"id";s:1:"1";s:2:"cm";s:1:"3";s:3:"mod";s:7:"msteams";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"1";s:6:"module";s:2:"24";s:5:"added";s:10:"1631215206";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:33:"Module 1 : Promotion Immobilière";s:7:"onclick";s:102:"window.open('https://elearning.ceh-uemoa.org/mod/msteams/view.php?id=3&amp;redirect=1'); return false;";}}s:12:"sectioncache";a:2:{i:0;O:8:"stdClass":3:{s:2:"id";s:1:"1";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":4:{s:2:"id";s:1:"2";s:4:"name";s:8:"Module 1";s:7:"summary";s:5664:"<p dir="ltr" style="text-align: left;"></p><p></p><p></p><p><b style="font-size: 0.9375rem;"><span lang="FR">Contenu détaillé du cours</span></b><br></p>
+
+<p><b><span lang="FR">&nbsp;</span></b></p>
+
+<p><!--[if !supportLists]--><b><span lang="FR">1.2.1.&nbsp;&nbsp;&nbsp;
+</span></b><!--[endif]--><b><span lang="FR">Définition
+de la promotion immobilière</span></b></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">La promotion
+immobilière</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Le promoteur
+immobilier</span></p>
+
+<p><span lang="FR">&nbsp;</span></p>
+
+<p><!--[if !supportLists]--><b><span lang="FR">1.2.2.&nbsp;&nbsp;&nbsp;
+</span></b><!--[endif]--><b><span lang="FR">Définitions
+de termes usuels et connaissances de base</span></b></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Projet immobilier /
+programme immobilier</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Bien immobilier</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Accès au logement</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Accès à la propriété</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Acquéreur (client)</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Terrains à bâtir (Viabilisation)</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Aménageur foncier</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Logement accessible</span></p>
+
+<p><span lang="FR">&nbsp;</span></p>
+
+<p><!--[if !supportLists]--><b><span lang="FR">1.2.3.&nbsp;&nbsp;&nbsp;
+</span></b><!--[endif]--><b><span lang="FR">Présentation
+des principaux intervenants dans la promotion immobilière</span></b></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Urbaniste/ géomètre</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Architecte</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Notaire</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Entreprise de construction</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Institution
+financière</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Commercial</span></p>
+
+<p><span lang="FR">&nbsp;</span></p>
+
+<p><!--[if !supportLists]--><b><span lang="FR">1.2.4.&nbsp;&nbsp;&nbsp;
+</span></b><!--[endif]--><b><span lang="FR">Présentation
+des produits de la promotion immobilière</span></b></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Logements /
+appartement/ résidence</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Locaux commerciaux et
+industriels</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Equipements marchands</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Bureaux</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Terrains à bâtir</span></p>
+
+<p><span lang="FR">&nbsp;</span></p>
+
+<p><!--[if !supportLists]--><b><span lang="FR">1.2.5.&nbsp;&nbsp;&nbsp;
+</span></b><!--[endif]--><b><span lang="FR">Présentation
+des spécificités de l’activité dans l’UEMOA</span></b></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Faible niveau de
+revenu des ménages</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Absence de la culture
+de l’épargne pour le logement</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Faible niveau de
+professionnalisme des acteurs</span></p>
+
+<p><!--[if !supportLists]--><span lang="FR">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="FR">Problème
+d’accessibilité aux financements adaptés</span></p>
+
+<p><b><span lang="FR">&nbsp;</span></b></p><br><p></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:8:"Module 1";s:8:"fullname";s:53:"Module 1 : Présentation de la promotion immobilière";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1631269239";}
